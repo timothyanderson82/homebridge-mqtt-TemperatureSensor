@@ -16,6 +16,8 @@ https://sivatechworld.wordpress.com/2015/06/11/step-by-step-installing-and-confi
 ### Arduino IDE required Libraries
 ESP8266WiFi.h
 
+ArduinoJson.h
+
 [PubSubClient.h](https://pubsubclient.knolleary.net/)
 
 [DHT.h](http://osoyoo.com/wp-content/uploads/samplecode/DHT.zip)
