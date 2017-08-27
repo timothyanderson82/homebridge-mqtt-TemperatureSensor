@@ -14,6 +14,7 @@ You will also need access to a mqtt broker. You can use one of the many free clo
 https://sivatechworld.wordpress.com/2015/06/11/step-by-step-installing-and-configuring-mosquitto-with-windows-7/
 
 ### Arduino IDE required Libraries
+ESP8266WiFi.h
 
 [PubSubClient.h](https://pubsubclient.knolleary.net/)
 
